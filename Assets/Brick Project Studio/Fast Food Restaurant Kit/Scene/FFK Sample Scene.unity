@@ -9118,6 +9118,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 997109766935975823, guid: e1ddfa97af6287d4ebd679345a471503, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2115d9153108e3e4db79bd7b010e2018, type: 3}
     - target: {fileID: 1090405316699045011, guid: e1ddfa97af6287d4ebd679345a471503, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -9125,6 +9129,10 @@ PrefabInstance:
     - target: {fileID: 1091785906708175875, guid: e1ddfa97af6287d4ebd679345a471503, type: 3}
       propertyPath: m_Name
       value: testCard
+      objectReference: {fileID: 0}
+    - target: {fileID: 1095131679973664399, guid: e1ddfa97af6287d4ebd679345a471503, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.677
       objectReference: {fileID: 0}
     - target: {fileID: 1095231717920900063, guid: e1ddfa97af6287d4ebd679345a471503, type: 3}
       propertyPath: m_LocalPosition.x
@@ -35299,7 +35307,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
